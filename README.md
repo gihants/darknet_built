@@ -1,6 +1,7 @@
-![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
+# Darknet Build #
+This is a prebuild darknet on Ubuntu 18.04 with OpenCV v3.2.0, CUDA V10.1.105 and CuDNN 7
 
-# Darknet #
+# Details about Darknet and Yolo #
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 Yolo v4 paper: https://arxiv.org/abs/2004.10934
